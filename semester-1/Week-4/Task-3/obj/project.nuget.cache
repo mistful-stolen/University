@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kssk4Yx/dqw=",
+  "success": true,
+  "projectFilePath": "/home/mistie/University/semester-1/Week-4/Task-3/Task-3.csproj",
+  "expectedPackageFiles": [
+    "/home/mistie/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

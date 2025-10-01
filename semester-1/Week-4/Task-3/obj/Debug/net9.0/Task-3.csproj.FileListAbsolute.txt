@@ -1,0 +1,15 @@
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.AssemblyInfoInputs.cache
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.AssemblyInfo.cs
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.csproj.CoreCompileInputs.cache
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.sourcelink.json
+/home/mistie/University/semester-1/Week-4/Task-3/bin/Debug/net9.0/Task-3
+/home/mistie/University/semester-1/Week-4/Task-3/bin/Debug/net9.0/Task-3.deps.json
+/home/mistie/University/semester-1/Week-4/Task-3/bin/Debug/net9.0/Task-3.runtimeconfig.json
+/home/mistie/University/semester-1/Week-4/Task-3/bin/Debug/net9.0/Task-3.dll
+/home/mistie/University/semester-1/Week-4/Task-3/bin/Debug/net9.0/Task-3.pdb
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.dll
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/refint/Task-3.dll
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.pdb
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/Task-3.genruntimeconfig.cache
+/home/mistie/University/semester-1/Week-4/Task-3/obj/Debug/net9.0/ref/Task-3.dll
