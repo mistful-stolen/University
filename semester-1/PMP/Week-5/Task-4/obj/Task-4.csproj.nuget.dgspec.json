@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mistie/University/semester-1/Week-5/Task-4/Task-4.csproj": {}
+    "/home/mistie/github/University/semester-1/PMP/Week-5/Task-4/Task-4.csproj": {}
   },
   "projects": {
-    "/home/mistie/University/semester-1/Week-5/Task-4/Task-4.csproj": {
+    "/home/mistie/github/University/semester-1/PMP/Week-5/Task-4/Task-4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mistie/University/semester-1/Week-5/Task-4/Task-4.csproj",
+        "projectUniqueName": "/home/mistie/github/University/semester-1/PMP/Week-5/Task-4/Task-4.csproj",
         "projectName": "Task-4",
-        "projectPath": "/home/mistie/University/semester-1/Week-5/Task-4/Task-4.csproj",
+        "projectPath": "/home/mistie/github/University/semester-1/PMP/Week-5/Task-4/Task-4.csproj",
         "packagesPath": "/home/mistie/.nuget/packages/",
-        "outputPath": "/home/mistie/University/semester-1/Week-5/Task-4/obj/",
+        "outputPath": "/home/mistie/github/University/semester-1/PMP/Week-5/Task-4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mistie/.nuget/NuGet/NuGet.Config"
