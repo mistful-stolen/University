@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/bin/Debug/net9.0/sample-ZH
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/bin/Debug/net9.0/sample-ZH.deps.json
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/bin/Debug/net9.0/sample-ZH.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/bin/Debug/net9.0/sample-ZH.dll
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/bin/Debug/net9.0/sample-ZH.pdb
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.dll
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/refint/sample-ZH.dll
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.pdb
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/sample-ZH.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/Week-5/sample-ZH/obj/Debug/net9.0/ref/sample-ZH.dll
