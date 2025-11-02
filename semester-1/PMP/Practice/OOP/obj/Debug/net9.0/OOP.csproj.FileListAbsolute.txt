@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/bin/Debug/net9.0/OOP
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/bin/Debug/net9.0/OOP.deps.json
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/bin/Debug/net9.0/OOP.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/bin/Debug/net9.0/OOP.dll
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/bin/Debug/net9.0/OOP.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.dll
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/refint/OOP.dll
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/OOP.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/Practice/OOP/obj/Debug/net9.0/ref/OOP.dll
