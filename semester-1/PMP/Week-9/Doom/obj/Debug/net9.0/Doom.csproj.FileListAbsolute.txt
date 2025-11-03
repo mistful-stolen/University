@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/bin/Debug/net9.0/Doom
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/bin/Debug/net9.0/Doom.deps.json
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/bin/Debug/net9.0/Doom.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/bin/Debug/net9.0/Doom.dll
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/bin/Debug/net9.0/Doom.pdb
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.dll
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/refint/Doom.dll
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.pdb
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/Doom.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/Debug/net9.0/ref/Doom.dll
