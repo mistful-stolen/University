@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/Practice/4/bin/Debug/net9.0/4
+/home/mistie/github/University/semester-1/PMP/Practice/4/bin/Debug/net9.0/4.deps.json
+/home/mistie/github/University/semester-1/PMP/Practice/4/bin/Debug/net9.0/4.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/Practice/4/bin/Debug/net9.0/4.dll
+/home/mistie/github/University/semester-1/PMP/Practice/4/bin/Debug/net9.0/4.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.dll
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/refint/4.dll
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/4.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/Practice/4/obj/Debug/net9.0/ref/4.dll
