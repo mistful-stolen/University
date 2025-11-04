@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mistie/github/University/semester-1/PMP/Week-9/Doom/Doom.csproj": {}
+    "/home/mistie/University/semester-1/PMP/Week-9/Doom/Doom.csproj": {}
   },
   "projects": {
-    "/home/mistie/github/University/semester-1/PMP/Week-9/Doom/Doom.csproj": {
+    "/home/mistie/University/semester-1/PMP/Week-9/Doom/Doom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mistie/github/University/semester-1/PMP/Week-9/Doom/Doom.csproj",
+        "projectUniqueName": "/home/mistie/University/semester-1/PMP/Week-9/Doom/Doom.csproj",
         "projectName": "Doom",
-        "projectPath": "/home/mistie/github/University/semester-1/PMP/Week-9/Doom/Doom.csproj",
+        "projectPath": "/home/mistie/University/semester-1/PMP/Week-9/Doom/Doom.csproj",
         "packagesPath": "/home/mistie/.nuget/packages/",
-        "outputPath": "/home/mistie/github/University/semester-1/PMP/Week-9/Doom/obj/",
+        "outputPath": "/home/mistie/University/semester-1/PMP/Week-9/Doom/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mistie/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OO8iEIL/7LA=",
+  "dgSpecHash": "VqH7riLOGxM=",
   "success": true,
-  "projectFilePath": "/home/mistie/github/University/semester-1/PMP/Practice/4/4.csproj",
+  "projectFilePath": "/home/mistie/University/semester-1/PMP/Practice/4/4.csproj",
   "expectedPackageFiles": [
     "/home/mistie/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
   ],

@@ -31,6 +31,51 @@ class Game {
         RenderSingleSprite(player.Position, player.Sprite);
     }
 
+    private void UserAction() {
+        if (Console.KeyAvailable == true) {
+            ConsoleKeyInfo pressed = Console.ReadKey(true);
+
+            switch (pressed.Key) {
+                case ConsoleKey.Escape:
+                    Exited = true;
+                    break;
+                case ConsoleKey.UpArrow:
+                    if (player.Position.Y == 0) {
+                        player.Position.Y -= 0;
+                    } else {
+                        player.Position.Y -= 1;
+                    }
+
+                    break;
+                case ConsoleKey.DownArrow:
+                    player.Position.Y += 1;
+                    break;
+                case ConsoleKey.LeftArrow:
+                    if (player.Position.X == 0) {
+                        player.Position.X -= 0;
+                    } else {
+                        player.Position.X -= 1;
+                    }
+                    break;
+                case ConsoleKey.RightArrow:
+                    player.Position.X += 1;
+                    break;
+
+            }
+        }
+
+    }
+
+
+    public void Run() {
+        do
+        {
+            RenderGame();
+            UserAction();
+            Thread.Sleep(25);
+        } while (Exited == false);
+    }
+
 
 
 

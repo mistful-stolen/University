@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mistie/github/University/semester-1/PMP/Practice/4/4.csproj": {}
+    "/home/mistie/University/semester-1/PMP/Practice/4/4.csproj": {}
   },
   "projects": {
-    "/home/mistie/github/University/semester-1/PMP/Practice/4/4.csproj": {
+    "/home/mistie/University/semester-1/PMP/Practice/4/4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mistie/github/University/semester-1/PMP/Practice/4/4.csproj",
+        "projectUniqueName": "/home/mistie/University/semester-1/PMP/Practice/4/4.csproj",
         "projectName": "4",
-        "projectPath": "/home/mistie/github/University/semester-1/PMP/Practice/4/4.csproj",
+        "projectPath": "/home/mistie/University/semester-1/PMP/Practice/4/4.csproj",
         "packagesPath": "/home/mistie/.nuget/packages/",
-        "outputPath": "/home/mistie/github/University/semester-1/PMP/Practice/4/obj/",
+        "outputPath": "/home/mistie/University/semester-1/PMP/Practice/4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mistie/.nuget/NuGet/NuGet.Config"

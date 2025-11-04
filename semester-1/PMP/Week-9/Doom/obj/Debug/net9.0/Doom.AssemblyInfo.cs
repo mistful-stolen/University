@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Doom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ba95c4e3b8bebc0eb850831fec20b9846f3c3ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00290fd134ac72ea89505a1f66c7c5517fe7440f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Doom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Doom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
