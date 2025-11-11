@@ -58,8 +58,7 @@ class GameItem {
     }
 
     public GameItem(int x, int y, ItemType typeConst) {
-        position.X = x;
-        position.Y = y;
+        position = new Position(x, y);
         type = typeConst;
 
         SetInitialProperties();
@@ -83,11 +82,13 @@ class GameItem {
         switch (Type) {
             case ItemType.Door:
                 if (fillingRatio == 1.0) {
-                    fillingRatio == 0.0;
+                    fillingRatio = 0.0;
+                    sprite.Foreground = ConsoleColor.DarkYellow;
                 }
 
                 if (fillingRatio == 0.0) {
-                    fillingRatio == 1.0;
+                    fillingRatio = 1.0;
+                    sprite.Foreground = ConsoleColor.Yellow;
                 }
                 break;
         }

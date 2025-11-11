@@ -1,6 +1,7 @@
 class Game {
     Player player;
     bool exited = false;
+    GameItem[] gameItem;
 
     public Player Player {
         get { return player; }
@@ -11,8 +12,18 @@ class Game {
         set { exited = value; }
     }
 
-    public Game() {
+    public GameItem[] Items {
+        get { return gameItem; }
+    }
+
+    public Game(GameItem[] item) {
         player = new Player(0, 0);
+        gameItem = new GameItem[item.Length];
+
+        for (int i = 0; i < gameItem.Length; i++) {
+            gameItem[i] = item[i];
+        }
+
     }
 
     private void RenderSingleSprite(Position position, ConsoleSprite sprite) {
@@ -28,6 +39,14 @@ class Game {
         Console.CursorVisible = false;
         Console.ResetColor();
         Console.Clear();
+
+        for (int i = 0; i < Items.Length; i++) {
+            if (Items[i] != null) {
+                RenderSingleSprite(Items[i].Position, Items[i].Sprite);
+            }
+        }
+
+
         RenderSingleSprite(player.Position, player.Sprite);
     }
 
@@ -60,10 +79,28 @@ class Game {
                 case ConsoleKey.RightArrow:
                     player.Position.X += 1;
                     break;
+                case ConsoleKey.D:
+                    for (int i = 0; i < Items.Length; i++) {
+                        if (Items[i] != null) {
+                            Items[i].Interact();
+                        }
+                    }
+                    break;
+                    
+
 
             }
         }
 
+    }
+
+    private void CleanUpGameItems() {
+        for (int i = 0; i < Items.Length; i++) {
+            GameItem[] 
+            if (Items[i] != null && Items[i].Available == false) {
+                Items[i] = null;
+            }
+        }
     }
 
 
@@ -72,9 +109,12 @@ class Game {
         {
             RenderGame();
             UserAction();
+            CleanUpGameItems();
             Thread.Sleep(25);
         } while (Exited == false);
     }
+
+
 
 
 

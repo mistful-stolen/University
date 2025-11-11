@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mistie/University/semester-1/PMP/Week-9/Doom/Doom.csproj",
+      "projectUniqueName": "/home/mistie/University/semester-1/PMP/Week-9+10/Doom/Doom.csproj",
       "projectName": "Doom",
-      "projectPath": "/home/mistie/University/semester-1/PMP/Week-9/Doom/Doom.csproj",
+      "projectPath": "/home/mistie/University/semester-1/PMP/Week-9+10/Doom/Doom.csproj",
       "packagesPath": "/home/mistie/.nuget/packages/",
-      "outputPath": "/home/mistie/University/semester-1/PMP/Week-9/Doom/obj/",
+      "outputPath": "/home/mistie/University/semester-1/PMP/Week-9+10/Doom/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mistie/.nuget/NuGet/NuGet.Config"
