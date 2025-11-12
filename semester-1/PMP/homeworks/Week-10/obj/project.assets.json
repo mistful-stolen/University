@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mistie/University/semester-1/PMP/homeworks/Week-10/Week-10.csproj",
+      "projectUniqueName": "/home/mistie/github/University/semester-1/PMP/homeworks/Week-10/Week-10.csproj",
       "projectName": "Week-10",
-      "projectPath": "/home/mistie/University/semester-1/PMP/homeworks/Week-10/Week-10.csproj",
+      "projectPath": "/home/mistie/github/University/semester-1/PMP/homeworks/Week-10/Week-10.csproj",
       "packagesPath": "/home/mistie/.nuget/packages/",
-      "outputPath": "/home/mistie/University/semester-1/PMP/homeworks/Week-10/obj/",
+      "outputPath": "/home/mistie/github/University/semester-1/PMP/homeworks/Week-10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mistie/.nuget/NuGet/NuGet.Config"
