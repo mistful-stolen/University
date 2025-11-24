@@ -40,6 +40,7 @@ namespace Week_10
                     else if (lines[i] == "else" && lines[i - 1] == "if" && lines[i + 1] != "endif")
                     {
                         calculation += " + 1";
+                        index = i;
                     }
                     else if (lines[i] == "endif" && i - index != 3) 
                     {

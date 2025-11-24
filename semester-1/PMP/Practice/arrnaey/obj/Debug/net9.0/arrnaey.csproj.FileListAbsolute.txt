@@ -1,0 +1,15 @@
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.AssemblyInfoInputs.cache
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.AssemblyInfo.cs
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.csproj.CoreCompileInputs.cache
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.sourcelink.json
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/bin/Debug/net9.0/arrnaey
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/bin/Debug/net9.0/arrnaey.deps.json
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/bin/Debug/net9.0/arrnaey.runtimeconfig.json
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/bin/Debug/net9.0/arrnaey.dll
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/bin/Debug/net9.0/arrnaey.pdb
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.dll
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/refint/arrnaey.dll
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.pdb
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/arrnaey.genruntimeconfig.cache
+/home/mistie/University/semester-1/PMP/Practice/arrnaey/obj/Debug/net9.0/ref/arrnaey.dll
