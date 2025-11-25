@@ -91,5 +91,20 @@ class FleetHandler {
 
     }
 
+    public void GenerateReport() {
+        Console.WriteLine($"Current date is {currentDate.ToString("yyyy. MM. dd. H:mm:ss")}.");
+        Console.WriteLine($"Total ship count is {TotalShipCount}.");
+
+        Console.WriteLine("Average cargo by shiptypes:");
+        foreach(ShipClassType element in Enum.GetValues(typeof(ShipClassType))) {
+            Console.WriteLine($"    {element}: {AverageCargo(element)}");
+        }
+
+        Console.WriteLine("Detailed info sorted by risk:");
+        foreach(SpaceShip element in GetShipsByGroup()) {
+            Console.WriteLine(element.GetStatusReport(currentDate));
+        }
+    }
+
 
 }

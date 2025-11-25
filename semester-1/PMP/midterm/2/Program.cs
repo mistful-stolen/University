@@ -6,6 +6,6 @@ class Program
     {
         FleetHandler fleet = new FleetHandler("weyland-yutani.csv");
 
-        Console.WriteLine(fleet.GetLargestCrewData(CrewStatusType.Active));
+        fleet.GenerateReport();
     }
 }
