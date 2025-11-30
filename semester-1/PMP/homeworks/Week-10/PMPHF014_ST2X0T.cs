@@ -59,9 +59,32 @@ namespace Week_10
                             }
                             break;
                     }
+<<<<<<< HEAD
 
 
 
+=======
+                    else if (lines[i] == "endif" && ((lines[i - 1] == "else" || lines[i - 1] == "if") && lines[i - 2] == "endif"))
+                    {
+                        calculation += " + 1";
+                        index = i;
+                    }
+                    else if (lines[i] == "else" && lines[i - 1] == "if" && lines[i + 1] != "endif")
+                    {
+                        calculation += " + 1";
+                        index = i;
+                    }
+                    else if (lines[i] == "endif" && i - index != 3) 
+                    {
+                        calculation += " + 2";
+                        index = i;
+                    }
+                    else if (lines[i] == "endif" && i - index == 3) 
+                    {
+                        calculation += " * 2";
+                        index = i;
+                    } 
+>>>>>>> 937db678e6e8cbe015d89e3241024d71fde14d53
                 }
             
             Console.WriteLine(calculation);

@@ -97,9 +97,7 @@ class Game {
     private void CleanUpGameItems() {
         for (int i = 0; i < Items.Length; i++) {
             GameItem[] 
-            if (Items[i] != null && Items[i].Available == false) {
-                Items[i] = null;
-            }
+            if (Items[i] != null && Items[i].Available == false
         }
     }
 
