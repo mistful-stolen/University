@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "btjJFnZwSuY=",
+  "success": true,
+  "projectFilePath": "/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/reference-type-pract.csproj",
+  "expectedPackageFiles": [
+    "/home/mistie/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.9/microsoft.aspnetcore.app.ref.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

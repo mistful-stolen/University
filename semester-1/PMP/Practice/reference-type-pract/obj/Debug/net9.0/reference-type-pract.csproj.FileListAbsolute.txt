@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/bin/Debug/net9.0/reference-type-pract
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/bin/Debug/net9.0/reference-type-pract.deps.json
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/bin/Debug/net9.0/reference-type-pract.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/bin/Debug/net9.0/reference-type-pract.dll
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/bin/Debug/net9.0/reference-type-pract.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.dll
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/refint/reference-type-pract.dll
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/reference-type-pract.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/Practice/reference-type-pract/obj/Debug/net9.0/ref/reference-type-pract.dll

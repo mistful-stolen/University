@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Numerics;
 
 namespace Week_10 
 {
@@ -28,37 +29,49 @@ namespace Week_10
                 int index = 0;
                 for (int i = 0; i < lines.Length; i++) 
                 {
-                    if (lines[i] == "endif" && lines[i - 1] == "endif")
+                    
+                    switch (lines[i]) 
                     {
-                        index = i;
+                        case "if":
+                            if (lines[i + 1] == "else" && lines[i + 2] == "endif") {
+                                calculation += "2";
+                            } else if (lines[i + 1] == "else") {
+                                calculation += "1";
+                            } else if (lines[i] == "else" && lines[i + 1] == "endif") {
+                                calculation += "1";
+                            }
+
+
+                            break;
+                        case "else":
+                            if (lines[i + 1] == "if") {
+                                calculation += "+";
+                            }
+
+                            if (lines[i - 1] == "endif" && lines[i + 1] == "endif") {
+                                calculation += "+";
+                            }
+                            break;
+
+                        case "endif":
+                            if (i != lines.Length - 1 && lines[i + 1] == "if") {
+                                calculation += "*";
+                            }
+                            break;
                     }
-                    else if (lines[i] == "endif" && ((lines[i - 1] == "else" || lines[i - 1] == "if") && lines[i - 2] == "endif"))
-                    {
-                        calculation += " + 1";
-                        index = i;
-                    }
-                    else if (lines[i] == "else" && lines[i - 1] == "if" && lines[i + 1] != "endif")
-                    {
-                        calculation += " + 1";
-                    }
-                    else if (lines[i] == "endif" && i - index != 3) 
-                    {
-                        calculation += " + 2";
-                        index = i;
-                    }
-                    else if (lines[i] == "endif" && i - index == 3) 
-                    {
-                        calculation += " * 2";
-                        index = i;
-                    } 
+
+
+
                 }
             
-            calculation = calculation.Substring(3);
-            
+            Console.WriteLine(calculation);
+            /*
             string[] splitCalculation = calculation.Split(" + ");
+
+        
             
             for (int i = 0; i < splitCalculation.Length; i++) {
-                int finalValue;
+                BigInteger finalValue;
                 if (splitCalculation[i].Length != 1) {
                     finalValue = 2;
                     for (int j = 0; j < splitCalculation[i].Length; j++) {
@@ -67,18 +80,19 @@ namespace Week_10
                         }
                     }
                 } else {
-                    finalValue = Convert.ToInt32(splitCalculation[i]);
+                    finalValue = BigInteger.Parse(splitCalculation[i]);
                 }
                 splitCalculation[i] = finalValue.ToString();
             }
             
-            int output = 0;
+            
+            BigInteger output = 0;
             foreach(string element in splitCalculation) {
-                output += Convert.ToInt32(element);
+                output += BigInteger.Parse(element);
             }
 
             File.WriteAllText("output.txt", output.ToString());
-
+            */
             }
         }
     }

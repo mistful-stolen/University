@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/bin/Debug/net9.0/Week-12
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/bin/Debug/net9.0/Week-12.deps.json
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/bin/Debug/net9.0/Week-12.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/bin/Debug/net9.0/Week-12.dll
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/bin/Debug/net9.0/Week-12.pdb
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.dll
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/refint/Week-12.dll
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.pdb
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/Week-12.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/homeworks/Week-12/obj/Debug/net9.0/ref/Week-12.dll
