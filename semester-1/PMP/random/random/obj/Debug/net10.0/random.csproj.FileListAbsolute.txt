@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/random/random/bin/Debug/net10.0/random
+/home/mistie/github/University/semester-1/PMP/random/random/bin/Debug/net10.0/random.deps.json
+/home/mistie/github/University/semester-1/PMP/random/random/bin/Debug/net10.0/random.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/random/random/bin/Debug/net10.0/random.dll
+/home/mistie/github/University/semester-1/PMP/random/random/bin/Debug/net10.0/random.pdb
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.dll
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/refint/random.dll
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.pdb
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/random.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/random/random/obj/Debug/net10.0/ref/random.dll

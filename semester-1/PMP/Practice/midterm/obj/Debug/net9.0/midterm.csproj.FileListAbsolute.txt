@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/bin/Debug/net9.0/midterm
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/bin/Debug/net9.0/midterm.deps.json
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/bin/Debug/net9.0/midterm.runtimeconfig.json
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/bin/Debug/net9.0/midterm.dll
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/bin/Debug/net9.0/midterm.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.AssemblyInfo.cs
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.sourcelink.json
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.dll
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/refint/midterm.dll
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.pdb
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/midterm.genruntimeconfig.cache
+/home/mistie/github/University/semester-1/PMP/Practice/midterm/obj/Debug/net9.0/ref/midterm.dll

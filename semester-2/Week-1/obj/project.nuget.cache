@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d9nI3C9HpB4=",
+  "success": true,
+  "projectFilePath": "/home/mistie/github/University/semester-2/Week-1/Week-1.csproj",
+  "expectedPackageFiles": [
+    "/home/mistie/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.3/microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

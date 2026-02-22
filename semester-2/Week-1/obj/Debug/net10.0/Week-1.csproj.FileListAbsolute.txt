@@ -1,0 +1,15 @@
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.AssemblyInfoInputs.cache
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.AssemblyInfo.cs
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.csproj.CoreCompileInputs.cache
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.sourcelink.json
+/home/mistie/github/University/semester-2/Week-1/bin/Debug/net10.0/Week-1
+/home/mistie/github/University/semester-2/Week-1/bin/Debug/net10.0/Week-1.deps.json
+/home/mistie/github/University/semester-2/Week-1/bin/Debug/net10.0/Week-1.runtimeconfig.json
+/home/mistie/github/University/semester-2/Week-1/bin/Debug/net10.0/Week-1.dll
+/home/mistie/github/University/semester-2/Week-1/bin/Debug/net10.0/Week-1.pdb
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.dll
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/refint/Week-1.dll
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.pdb
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/Week-1.genruntimeconfig.cache
+/home/mistie/github/University/semester-2/Week-1/obj/Debug/net10.0/ref/Week-1.dll
