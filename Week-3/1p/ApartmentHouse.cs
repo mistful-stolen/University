@@ -16,4 +16,22 @@ class ApartmentHouse
 
         RealEstates = new IRealEstate[maxFlatCount + maxGarageCount];
     }
+
+    public bool Add(IRealEstate newRealEstate)
+    {
+        if (newRealEstate is Flat && flatCount < maxFlatCount) 
+        { RealEstates[flatCount + garageCount] = newRealEstate; flatCount++; return true; }
+        if (newRealEstate is Garage && garageCount < maxGarageCount) 
+        { RealEstates[flatCount + garageCount] = newRealEstate; garageCount++; return true; }
+
+        return false;
+    }
+
+
+    public int TotalValue()
+    {
+        int totalValu = 0;
+        for (int i = 0; i < flatCount + garageCoun)
+    }
+  
 }
