@@ -1,0 +1,3 @@
+interface IRealEstate {
+    int TotalValue();
+}
