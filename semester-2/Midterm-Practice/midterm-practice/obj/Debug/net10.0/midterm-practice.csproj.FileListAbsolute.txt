@@ -1,0 +1,15 @@
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/bin/Debug/net10.0/midterm-practice
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/bin/Debug/net10.0/midterm-practice.deps.json
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/bin/Debug/net10.0/midterm-practice.runtimeconfig.json
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/bin/Debug/net10.0/midterm-practice.dll
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/bin/Debug/net10.0/midterm-practice.pdb
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.AssemblyInfoInputs.cache
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.AssemblyInfo.cs
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.csproj.CoreCompileInputs.cache
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.sourcelink.json
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.dll
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/refint/midterm-practice.dll
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.pdb
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/midterm-practice.genruntimeconfig.cache
+/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/obj/Debug/net10.0/ref/midterm-practice.dll

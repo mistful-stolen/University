@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxQvuysqcEM=",
+  "success": true,
+  "projectFilePath": "/home/mistie/University/semester-2/Midterm-Practice/midterm-practice/midterm-practice.csproj",
+  "expectedPackageFiles": [
+    "/home/mistie/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

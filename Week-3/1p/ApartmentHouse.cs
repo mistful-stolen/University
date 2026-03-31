@@ -28,10 +28,4 @@ class ApartmentHouse
     }
 
 
-    public int TotalValue()
-    {
-        int totalValu = 0;
-        for (int i = 0; i < flatCount + garageCoun)
-    }
-  
 }

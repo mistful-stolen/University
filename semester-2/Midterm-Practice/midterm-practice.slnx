@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="midterm-practice.tests/midterm-practice.tests.csproj" />
+  <Project Path="midterm-practice/midterm-practice.csproj" />
+</Solution>
