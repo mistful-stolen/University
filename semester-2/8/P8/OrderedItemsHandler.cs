@@ -1,3 +1,4 @@
+using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
 
@@ -103,4 +104,36 @@ class OrderedItemsHandler
             items[j + 1] = temp;
         }
     }
+
+    public int BinarySearchIterative(IComparable searchValue, bool isAscending = true)
+    {
+        if(!IsOrdered(isAscending)) throw (new NotOrderedItemsException(items));
+
+        int leftIdx = 0;
+        int rightIdx = items.Length - 1;
+        int centerIdx = (leftIdx + rightIdx) / 2;
+
+        while (leftIdx <= rightIdx && !items[centerIdx].Equals(searchValue))
+        {
+            if (less(searchValue, items[centerIdx])) rightIdx = centerIdx - 1;
+            else leftIdx = centerIdx + 1;
+            centerIdx = (leftIdx + rightIdx) / 2;
+        }
+
+        return (leftIdx <= rightIdx) ? centerIdx : -1;
+    }
+
+    public int BinarySearchRecursive(IComparable searchValue, bool isAscending)
+    {
+        if(!IsOrdered()) throw new NotOrderedItemsException(items);
+
+        int rightIdx = 0;
+        int leftIdx = items.Length - 1;
+
+        DefineLess(isAscending);
+
+        int centerIdx = (leftIdx + rightIdx) / 2;
+
+    }
+
 }
