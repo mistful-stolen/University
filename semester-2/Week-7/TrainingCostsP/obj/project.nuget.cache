@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DwFBX4unkRg=",
+  "success": true,
+  "projectFilePath": "/home/mistie/University/semester-2/Week-7/TrainingCostsP/TrainingCostsP.csproj",
+  "expectedPackageFiles": [
+    "/home/mistie/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/bin/Debug/net10.0/TrainingCostsP
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/bin/Debug/net10.0/TrainingCostsP.deps.json
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/bin/Debug/net10.0/TrainingCostsP.runtimeconfig.json
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/bin/Debug/net10.0/TrainingCostsP.dll
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/bin/Debug/net10.0/TrainingCostsP.pdb
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.GeneratedMSBuildEditorConfig.editorconfig
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.AssemblyInfoInputs.cache
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.AssemblyInfo.cs
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.csproj.CoreCompileInputs.cache
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.sourcelink.json
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.dll
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/refint/TrainingCostsP.dll
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.pdb
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/TrainingCostsP.genruntimeconfig.cache
+/home/mistie/University/semester-2/Week-7/TrainingCostsP/obj/Debug/net10.0/ref/TrainingCostsP.dll
